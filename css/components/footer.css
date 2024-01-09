@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(41, 37, 37);
+  padding: 50px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.footer .icons {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.footer .icons li a i {
+  color:rgb(66, 249, 145);
+  font-size: 31px;
+  margin: 10px;
+}
+
+.footer p {
+  text-align: center;
+  color: rgb(100, 100, 100);
+}
